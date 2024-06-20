@@ -50,7 +50,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 If you have any questions or would like to connect, feel free to reach out:
 
-- **Email**: [my-email@example.com](mailto:johnkowfie99@outlook.com)
+- **Email**: [johnkowfie99@outlook.com](mailto:johnkowfie99@outlook.com)
 - **Twitter**: [My Twitter Profile](https://www.x.com/in/thejohnyrex)
 
 Thank you for checking out my Profile Card project!

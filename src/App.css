@@ -1,0 +1,67 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pp-box {
+  padding: 1rem;
+}
+
+.project_name {
+  margin-bottom: 3rem;
+  line-height: 0.5rem;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 60vw;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0.5px 0.5px 10px 1px rgba(255, 255, 255, 0.603);
+}
+
+.identity {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 1rem;
+}
+
+.identity img {
+	width: 50%;
+	border-radius: 50%;
+	/* border-bottom: 1px solid white; */
+}
+
+.jobs {
+	line-height: 0.5rem;
+}
+
+.jobs h3,
+.jobs p {
+	color: rgb(170, 169, 169);
+}
+
+.about {
+	color: rgba(255, 255, 255, 0.794);
+	font-family: sans-serif;
+	font-weight: bold;
+	line-height: 1.25rem;
+	text-align: center;
+}
+
+.tech {
+	display: inline-block;
+	color: rgba(255, 255, 255, 0.794);
+	padding: 0.2rem 0.7rem;
+	margin: 0.3rem;
+	border-radius: 0.5rem;
+	font-weight: bold;
+}

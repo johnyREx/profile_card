@@ -6,7 +6,7 @@ const data = {
 	myName: "John Kwofie",
 	myJob1: "Diplomat",
 	myJob2: "Front-End Developer",
-	profileImg: "assets/me.png",
+	profileImg: "assets/johny_profile.png",
 	aboutMe:
 		"Frontend web developer bridging technology with diplomacy 🌐 || Passionate about crafting elegant, user-centric experiences || Balancing code and global affairs ||",
 	myTechs: [
